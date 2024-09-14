@@ -3,7 +3,7 @@ var no_love =document.getElementById("no-love");
 
 love.addEventListener("click", myFunction);
 function myFunction(){
- alert('Umbala......Điều ước của Cá sẽ được thực hiện sau 1 ngày nữa')
+ alert('Hehehe.......Bát biết mà, chếc rùi Bát ngại waaaa, ngại waaaa <3333')
 }
 
 no_love.addEventListener("mouseover",lovefunction);
