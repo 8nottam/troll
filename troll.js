@@ -3,7 +3,7 @@ var no_love =document.getElementById("no-love");
 
 love.addEventListener("click", myFunction);
 function myFunction(){
- alert('Hehehe.......Bát biết mà, chếc rùi Bát ngại waaaa, ngại waaaa <3333')
+ alert('Biết ngay mà =)))))')
 }
 
 no_love.addEventListener("mouseover",lovefunction);
